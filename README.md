@@ -136,10 +136,10 @@ http://faculty.london.edu/avmiguel/
 
 | Ranking|  | Major | Link |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1| Baruch| Probability Theory for Financial Applications| https://mfe.baruch.cuny.edu/wp-content/uploads/2020/11/pre-mfe-prob-feb2021-syllabus.pdf| 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
-| | | Numerical Linear Algebra for Financial Engineering| https://mfe.baruch.cuny.edu/wp-content/uploads/2020/11/pre-mfe-nla-feb2021-syllabus.pdf| 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
-| 2| Carnegie Me| Master of Science in Computational Finance| https://www.cmu.edu/mscf/academics/curriculum/index.html| 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
-|  | | Artifical Intelligence| https://www.ml.cmu.edu/academics/rankings/| 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
-| 3| Princeton| Operation Research and Financial Engineering| https://www.princeton.edu/academics/area-of-study/operations-research-and-financial-engineering| 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
-| | | Computer Science| https://www.princeton.edu/academics/area-of-study/computer-science| 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
-| 4| Columbia| Master of Science In Financial Engineering| https://msfe.ieor.columbia.edu/| 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
+| 1| Baruch| Probability Theory for Financial Applications| https://mfe.baruch.cuny.edu/wp-content/uploads/2020/11/pre-mfe-prob-feb2021-syllabus.pdf| 
+| | | Numerical Linear Algebra for Financial Engineering| https://mfe.baruch.cuny.edu/wp-content/uploads/2020/11/pre-mfe-nla-feb2021-syllabus.pdf| 
+| 2| Carnegie Me| Master of Science in Computational Finance| https://www.cmu.edu/mscf/academics/curriculum/index.html| 
+|  | | Artifical Intelligence| https://www.ml.cmu.edu/academics/rankings/|
+| 3| Princeton| Operation Research and Financial Engineering| https://www.princeton.edu/academics/area-of-study/operations-research-and-financial-engineering|
+| | | Computer Science| https://www.princeton.edu/academics/area-of-study/computer-science|
+| 4| Columbia| Master of Science In Financial Engineering| https://msfe.ieor.columbia.edu/|
