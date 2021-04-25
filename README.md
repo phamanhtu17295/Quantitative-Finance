@@ -131,7 +131,10 @@ Jim Simons - World's Smartest Billionaire:
 https://www.youtube.com/watch?v=6fr8XOtbPqM
 https://en.wikipedia.org/wiki/Jim_Simons_(mathematician)
 
-| Ranking|  | Major | Link | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11 | #12 |
+Victor DeMiguel - Phd LonDon Business Schools
+http://faculty.london.edu/avmiguel/
+
+| Ranking|  | Major | Link |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1| Baruch| Probability Theory for Financial Applications| https://mfe.baruch.cuny.edu/wp-content/uploads/2020/11/pre-mfe-prob-feb2021-syllabus.pdf| 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
 | | | Numerical Linear Algebra for Financial Engineering| https://mfe.baruch.cuny.edu/wp-content/uploads/2020/11/pre-mfe-nla-feb2021-syllabus.pdf| 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
