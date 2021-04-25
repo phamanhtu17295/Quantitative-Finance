@@ -134,11 +134,25 @@ https://en.wikipedia.org/wiki/Jim_Simons_(mathematician)
 Victor DeMiguel - Phd LonDon Business Schools
 http://faculty.london.edu/avmiguel/
 
-| Ranking|  | Major | Link ||
-| 1| Baruch| Probability Theory for Financial Applications| https://mfe.baruch.cuny.edu/wp-content/uploads/2020/11/pre-mfe-prob-feb2021-syllabus.pdf
-| | | Numerical Linear Algebra for Financial Engineering| https://mfe.baruch.cuny.edu/wp-content/uploads/2020/11/pre-mfe-nla-feb2021-syllabus.pdf|
-| 2| Carnegie Me| Master of Science in Computational Finance| https://www.cmu.edu/mscf/academics/curriculum/index.html|
-|  | | Artifical Intelligence| https://www.ml.cmu.edu/academics/rankings/|
-| 3| Princeton| Operation Research and Financial Engineering| https://www.princeton.edu/academics/area-of-study/operations-research-and-financial-engineering| 
-| | | Computer Science| https://www.princeton.edu/academics/area-of-study/computer-science|
-| 4| Columbia| Master of Science In Financial Engineering| https://msfe.ieor.columbia.edu/|
+
+Baruch (rank 1)
+Probability Theory for Financial Applications
+https://mfe.baruch.cuny.edu/wp-content/uploads/2020/11/pre-mfe-prob-feb2021-syllabus.pdf
+Numerical Linear Algebra for Financial Engineering
+https://mfe.baruch.cuny.edu/wp-content/uploads/2020/11/pre-mfe-nla-feb2021-syllabus.pdf|
+
+Carnegie Me (rank 2)
+Master of Science in Computational Finance
+https://www.cmu.edu/mscf/academics/curriculum/index.html
+Artifical Intelligence
+https://www.ml.cmu.edu/academics/rankings/
+
+Princeton (rank 3)
+Operation Research and Financial Engineering
+https://www.princeton.edu/academics/area-of-study/operations-research-and-financial-engineering|
+Computer Science
+https://www.princeton.edu/academics/area-of-study/computer-science
+
+Columbia (rank 4)
+Master of Science In Financial Engineering
+https://msfe.ieor.columbia.edu/
