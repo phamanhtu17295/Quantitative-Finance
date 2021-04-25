@@ -1,9 +1,5 @@
 
-
-
 ## **Top-down learning path: Machine Learning for Software Engineers**
-
-
 
 Inspired by https://github.com/ZuzooVn/machine-learning-for-software-engineers, https://github.com/jwasham/coding-interview-university and many great one before me.
 
