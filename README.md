@@ -52,18 +52,23 @@ Table of Contents
     -   heapsort
     -   quicksort
     -   merge sort
--   Industry Leader
+-   [Industry Leader](https://github.com/phamanhtu17295/Financial-Technology#Industry-Leader-?)
+-   [Top ranking School in Quantitative Finance](https://github.com/phamanhtu17295/Financial-Technology#Top-ranking-School-in-Quantitative-Finance)
+
+## ***Industry Leader***
+
     Tech Ceo profile: 
-    https://drive.google.com/file/d/141XZCOJLoyxDXmGEl5pVLvjHBfKOPvRB/view?fbclid=IwAR1qGWKGY-XVinx66hWuyD5Rbzbxi1fbRyMGbAelgHV934Cjs7btdWoTTVU
+        https://drive.google.com/file/d/141XZCOJLoyxDXmGEl5pVLvjHBfKOPvRB/view?fbclid=IwAR1qGWKGY-XVinx66hWuyD5Rbzbxi1fbRyMGbAelgHV934Cjs7btdWoTTVU
 
     Jim Simons - World's Smartest Billionaire:
-    https://www.youtube.com/watch?v=6fr8XOtbPqM
-    https://en.wikipedia.org/wiki/Jim_Simons_(mathematician)
+        https://www.youtube.com/watch?v=6fr8XOtbPqM
+        https://en.wikipedia.org/wiki/Jim_Simons_(mathematician)
 
     Victor DeMiguel - Phd LonDon Business Schools
-    http://faculty.london.edu/avmiguel/
+        http://faculty.london.edu/avmiguel/
     
 -   Top ranking schools in Quant
+## ***Top ranking School in Quantitative Finance: ***
 
 Top ranking School in Quantitative Finance: 
 https://quantnet.com/mfe-programs-rankings/?fbclid=IwAR3eLr5koxCc3RUrhVo1nBS7ZrRVXKL9jA84w3uXsGO484uLvAaBiq6v68g
