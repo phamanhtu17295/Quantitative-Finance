@@ -57,12 +57,12 @@ Table of Contents
 
 
 ## Why use it:
-I'm following this plan to prepare for my near-future job: Machine learning engineer. I've been building native mobile applications (Android/iOS/Blackberry) since 2011. I have a Software Engineering degree, not a Computer Science degree. I have an itty-bitty amount of basic knowledge about: Calculus, Linear Algebra, Discrete Mathematics, Probability & Statistics from university. Think about my interest in machine learning:
+I'm following this plan to prepare for my near-future job: Quantitative Research. I've been study and working in Finance Industry since 2013. I have a Finance/Investment Banking degree, not a Financial Engineering degree. I have an itty-bitty amount of basic knowledge about: Calculus, Linear Algebra, Discrete Mathematics, Probability & Statistics from university. Think about my interest in Quantitative Finance:
 
+-
 -   [Can I learn and get a job in Machine Learning without studying CS Master and PhD?](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD)
     -   _"You can, but it is far more difficult than when I got into the field."_  [Drac Smith](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD/answer/Drac-Smith?srid=oT0p)
 -   [How do I get a job in Machine Learning as a software programmer who self-studies Machine Learning, but never has a chance to use it at work?](https://www.quora.com/How-do-I-get-a-job-in-Machine-Learning-as-a-software-programmer-who-self-studies-Machine-Learning-but-never-has-a-chance-to-use-it-at-work)
-    -   _"I'm hiring machine learning experts for my team and your MOOC will not get you the job (there is better news below). In fact, many people with a master's in machine learning will not get the job because they (and most who have taken MOOCs) do not have a deep understanding that will help me solve my problems."_  [Ross C. Taylor](https://www.quora.com/How-do-I-get-a-job-in-Machine-Learning-as-a-software-programmer-who-self-studies-Machine-Learning-but-never-has-a-chance-to-use-it-at-work/answer/Ross-C-Taylor?srid=oT0p)
 -   [What skills are needed for machine learning jobs?](http://programmers.stackexchange.com/questions/79476/what-skills-are-needed-for-machine-learning-jobs)
     -   _"First, you need to have a decent CS/Math background. ML is an advanced topic so most textbooks assume that you have that background. Second, machine learning is a very general topic with many sub-specialties requiring unique skills. You may want to browse the curriculum of an MS program in Machine Learning to see the course, curriculum and textbook."_  [Uri](http://softwareengineering.stackexchange.com/a/79717)
     -   _"Probability, distributed computing, and Statistics."_  [Hydrangea](http://softwareengineering.stackexchange.com/a/79575)
@@ -81,13 +81,9 @@ It's a long plan. It's going to take me years. If you are familiar with a lot of
 ## ***Industry Leader***
 
 - [Tech Ceo profile](https://drive.google.com/file/d/141XZCOJLoyxDXmGEl5pVLvjHBfKOPvRB/view?fbclid=IwAR1qGWKGY-XVinx66hWuyD5Rbzbxi1fbRyMGbAelgHV934Cjs7btdWoTTVU)
-
 - [Jim Simons - World's Smartest Billionaire](https://www.youtube.com/watch?v=6fr8XOtbPqM)
-
-
-- Victor DeMiguel - Phd LonDon Business Schools
-http://faculty.london.edu/avmiguel/
-
+- [Victor DeMiguel - Phd LonDon Business Schools](http://faculty.london.edu/avmiguel/)
+- [Marcos Lopez de Prado](https://www.linkedin.com/in/lopezdeprado/)
 
 ## ***Top ranking School in Quantitative Finance: ***
 
@@ -99,19 +95,13 @@ http://faculty.london.edu/avmiguel/
 -   Carnegie Me (rank 2)
     -   [Master of Science in Computational Finance](https://www.cmu.edu/mscf/academics/curriculum/index.html)
     -   [Artifical Intelligence](https://www.ml.cmu.edu/academics/rankings/)
-
-Princeton (rank 3)
-
-Operation Research and Financial Engineering
-https://www.princeton.edu/academics/area-of-study/operations-research-and-financial-engineering
-
-Computer Science
-https://www.princeton.edu/academics/area-of-study/computer-science
-
-Columbia (rank 4)
-
-Master of Science In Financial Engineering
-https://msfe.ieor.columbia.edu/
+-   Princeton (rank 3)
+    -   [Operation Research and Financial Engineering](https://www.princeton.edu/academics/area-of-study/operations-research-and-financial-engineering)
+    -   [Computer Science](https://www.princeton.edu/academics/area-of-study/computer-science)
+-   Columbia (rank 4)
+    -   [Master of Science In Financial Engineering](https://msfe.ieor.columbia.edu/)
+-   Nanyang Technological University
+    -   [MSc in Financial Technology](https://wcms-prod-admin.ntu.edu.sg/spms/about-us/mathematics/grad/msc-in-financial-technology)
 
 
 
@@ -142,19 +132,6 @@ https://msfe.ieor.columbia.edu/
 -   [Be thinking of for when the interview comes](https://github.com/jwasham/coding-interview-university#be-thinking-of-for-when-the-interview-comes)
 -   [Have questions for the interviewer](https://github.com/jwasham/coding-interview-university#have-questions-for-the-interviewer)
 -   [Once You've Got The Job](https://github.com/jwasham/coding-interview-university#once-youve-got-the-job)
-
----------------- Everything below this point is optional ----------------
-
-
-
-
-  * [Dockerfile.vim](#dockerfilevim)
-  * [Screenshot](#screenshot)
-  * [Installation](#installation)
-        * [OR using Pathogen:](#or-using-pathogen)
-        * [OR using Vundle:](#or-using-vundle)
-  * [License](#license)
-
 
 
 ## References:
