@@ -55,6 +55,29 @@ Table of Contents
 -   [Industry Leader](https://github.com/phamanhtu17295/Financial-Technology#Industry-Leader-?)
 -   [Top ranking School in Quantitative Finance](https://github.com/phamanhtu17295/Financial-Technology#Top-ranking-School-in-Quantitative-Finance)
 
+
+## Why use it:
+I'm following this plan to prepare for my near-future job: Machine learning engineer. I've been building native mobile applications (Android/iOS/Blackberry) since 2011. I have a Software Engineering degree, not a Computer Science degree. I have an itty-bitty amount of basic knowledge about: Calculus, Linear Algebra, Discrete Mathematics, Probability & Statistics from university. Think about my interest in machine learning:
+
+-   [Can I learn and get a job in Machine Learning without studying CS Master and PhD?](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD)
+    -   _"You can, but it is far more difficult than when I got into the field."_  [Drac Smith](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD/answer/Drac-Smith?srid=oT0p)
+-   [How do I get a job in Machine Learning as a software programmer who self-studies Machine Learning, but never has a chance to use it at work?](https://www.quora.com/How-do-I-get-a-job-in-Machine-Learning-as-a-software-programmer-who-self-studies-Machine-Learning-but-never-has-a-chance-to-use-it-at-work)
+    -   _"I'm hiring machine learning experts for my team and your MOOC will not get you the job (there is better news below). In fact, many people with a master's in machine learning will not get the job because they (and most who have taken MOOCs) do not have a deep understanding that will help me solve my problems."_  [Ross C. Taylor](https://www.quora.com/How-do-I-get-a-job-in-Machine-Learning-as-a-software-programmer-who-self-studies-Machine-Learning-but-never-has-a-chance-to-use-it-at-work/answer/Ross-C-Taylor?srid=oT0p)
+-   [What skills are needed for machine learning jobs?](http://programmers.stackexchange.com/questions/79476/what-skills-are-needed-for-machine-learning-jobs)
+    -   _"First, you need to have a decent CS/Math background. ML is an advanced topic so most textbooks assume that you have that background. Second, machine learning is a very general topic with many sub-specialties requiring unique skills. You may want to browse the curriculum of an MS program in Machine Learning to see the course, curriculum and textbook."_  [Uri](http://softwareengineering.stackexchange.com/a/79717)
+    -   _"Probability, distributed computing, and Statistics."_  [Hydrangea](http://softwareengineering.stackexchange.com/a/79575)
+
+I find myself in times of trouble.
+
+AFAIK,  [There are two sides to machine learning](http://machinelearningmastery.com/programmers-can-get-into-machine-learning/):
+
+-   Practical Machine Learning: This is about querying databases, cleaning data, writing scripts to transform data and gluing algorithm and libraries together and writing custom code to squeeze reliable answers from data to satisfy difficult and ill-defined questions. It’s the mess of reality.
+-   Theoretical Machine Learning: This is about math and abstraction and idealized scenarios and limits and beauty and informing what is possible. It is a whole lot neater and cleaner and removed from the mess of reality.
+
+I think the best way for practice-focused methodology is something like  ['practice — learning — practice'](http://machinelearningmastery.com/machine-learning-for-programmers/#comment-358985), that means where students first come with some existing projects with problems and solutions (practice) to get familiar with traditional methods in the area and perhaps also with their methodology. After practicing with some elementary experiences, they can go into the books and study the underlying theory, which serves to guide their future advanced practice and will enhance their toolbox of solving practical problems. Studying theory also further improves their understanding on the elementary experiences, and will help them acquire advanced experiences more quickly.
+
+It's a long plan. It's going to take me years. If you are familiar with a lot of this already it will take you a lot less time.
+
 ## ***Industry Leader***
 
 - [Tech Ceo profile](https://drive.google.com/file/d/141XZCOJLoyxDXmGEl5pVLvjHBfKOPvRB/view?fbclid=IwAR1qGWKGY-XVinx66hWuyD5Rbzbxi1fbRyMGbAelgHV934Cjs7btdWoTTVU)
@@ -68,14 +91,14 @@ http://faculty.london.edu/avmiguel/
 
 ## ***Top ranking School in Quantitative Finance: ***
 
--[Top ranking School in Quantitative Finance](https://quantnet.com/mfe-programs-rankings/?fbclid=IwAR3eLr5koxCc3RUrhVo1nBS7ZrRVXKL9jA84w3uXsGO484uLvAaBiq6v68g)
+-   [Top ranking School in Quantitative Finance](https://quantnet.com/mfe-programs-rankings/?fbclid=IwAR3eLr5koxCc3RUrhVo1nBS7ZrRVXKL9jA84w3uXsGO484uLvAaBiq6v68g)
 
--Baruch (rank 1)
-    -[Probability Theory for Financial Applications](https://mfe.baruch.cuny.edu/wp-content/uploads/2020/11/pre-mfe-prob-feb2021-syllabus.pdf)
-    -[Numerical Linear Algebra for Financial Engineering](https://mfe.baruch.cuny.edu/wp-content/uploads/2020/11/pre-mfe-nla-feb2021-syllabus.pdf)
--Carnegie Me (rank 2)
-    -[Master of Science in Computational Finance](https://www.cmu.edu/mscf/academics/curriculum/index.html)
-    -[Artifical Intelligence](https://www.ml.cmu.edu/academics/rankings/)
+-   Baruch (rank 1)
+    -   [Probability Theory for Financial Applications](https://mfe.baruch.cuny.edu/wp-content/uploads/2020/11/pre-mfe-prob-feb2021-syllabus.pdf)
+    -   [Numerical Linear Algebra for Financial Engineering](https://mfe.baruch.cuny.edu/wp-content/uploads/2020/11/pre-mfe-nla-feb2021-syllabus.pdf)
+-   Carnegie Me (rank 2)
+    -   [Master of Science in Computational Finance](https://www.cmu.edu/mscf/academics/curriculum/index.html)
+    -   [Artifical Intelligence](https://www.ml.cmu.edu/academics/rankings/)
 
 Princeton (rank 3)
 
@@ -132,27 +155,7 @@ https://msfe.ieor.columbia.edu/
         * [OR using Vundle:](#or-using-vundle)
   * [License](#license)
 
-## Why use it:
-I'm following this plan to prepare for my near-future job: Machine learning engineer. I've been building native mobile applications (Android/iOS/Blackberry) since 2011. I have a Software Engineering degree, not a Computer Science degree. I have an itty-bitty amount of basic knowledge about: Calculus, Linear Algebra, Discrete Mathematics, Probability & Statistics from university. Think about my interest in machine learning:
 
--   [Can I learn and get a job in Machine Learning without studying CS Master and PhD?](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD)
-    -   _"You can, but it is far more difficult than when I got into the field."_  [Drac Smith](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD/answer/Drac-Smith?srid=oT0p)
--   [How do I get a job in Machine Learning as a software programmer who self-studies Machine Learning, but never has a chance to use it at work?](https://www.quora.com/How-do-I-get-a-job-in-Machine-Learning-as-a-software-programmer-who-self-studies-Machine-Learning-but-never-has-a-chance-to-use-it-at-work)
-    -   _"I'm hiring machine learning experts for my team and your MOOC will not get you the job (there is better news below). In fact, many people with a master's in machine learning will not get the job because they (and most who have taken MOOCs) do not have a deep understanding that will help me solve my problems."_  [Ross C. Taylor](https://www.quora.com/How-do-I-get-a-job-in-Machine-Learning-as-a-software-programmer-who-self-studies-Machine-Learning-but-never-has-a-chance-to-use-it-at-work/answer/Ross-C-Taylor?srid=oT0p)
--   [What skills are needed for machine learning jobs?](http://programmers.stackexchange.com/questions/79476/what-skills-are-needed-for-machine-learning-jobs)
-    -   _"First, you need to have a decent CS/Math background. ML is an advanced topic so most textbooks assume that you have that background. Second, machine learning is a very general topic with many sub-specialties requiring unique skills. You may want to browse the curriculum of an MS program in Machine Learning to see the course, curriculum and textbook."_  [Uri](http://softwareengineering.stackexchange.com/a/79717)
-    -   _"Probability, distributed computing, and Statistics."_  [Hydrangea](http://softwareengineering.stackexchange.com/a/79575)
-
-I find myself in times of trouble.
-
-AFAIK,  [There are two sides to machine learning](http://machinelearningmastery.com/programmers-can-get-into-machine-learning/):
-
--   Practical Machine Learning: This is about querying databases, cleaning data, writing scripts to transform data and gluing algorithm and libraries together and writing custom code to squeeze reliable answers from data to satisfy difficult and ill-defined questions. It’s the mess of reality.
--   Theoretical Machine Learning: This is about math and abstraction and idealized scenarios and limits and beauty and informing what is possible. It is a whole lot neater and cleaner and removed from the mess of reality.
-
-I think the best way for practice-focused methodology is something like  ['practice — learning — practice'](http://machinelearningmastery.com/machine-learning-for-programmers/#comment-358985), that means where students first come with some existing projects with problems and solutions (practice) to get familiar with traditional methods in the area and perhaps also with their methodology. After practicing with some elementary experiences, they can go into the books and study the underlying theory, which serves to guide their future advanced practice and will enhance their toolbox of solving practical problems. Studying theory also further improves their understanding on the elementary experiences, and will help them acquire advanced experiences more quickly.
-
-It's a long plan. It's going to take me years. If you are familiar with a lot of this already it will take you a lot less time.
 
 ## References:
 
