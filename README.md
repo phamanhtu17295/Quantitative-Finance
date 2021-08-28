@@ -68,24 +68,14 @@ http://faculty.london.edu/avmiguel/
 
 ## ***Top ranking School in Quantitative Finance: ***
 
-Top ranking School in Quantitative Finance: 
-https://quantnet.com/mfe-programs-rankings/?fbclid=IwAR3eLr5koxCc3RUrhVo1nBS7ZrRVXKL9jA84w3uXsGO484uLvAaBiq6v68g
+-[Top ranking School in Quantitative Finance](https://quantnet.com/mfe-programs-rankings/?fbclid=IwAR3eLr5koxCc3RUrhVo1nBS7ZrRVXKL9jA84w3uXsGO484uLvAaBiq6v68g)
 
-Baruch (rank 1)
-
-Probability Theory for Financial Applications
-https://mfe.baruch.cuny.edu/wp-content/uploads/2020/11/pre-mfe-prob-feb2021-syllabus.pdf
-
-Numerical Linear Algebra for Financial Engineering
-https://mfe.baruch.cuny.edu/wp-content/uploads/2020/11/pre-mfe-nla-feb2021-syllabus.pdf|
-
-Carnegie Me (rank 2)
-
-Master of Science in Computational Finance
-https://www.cmu.edu/mscf/academics/curriculum/index.html
-
-Artifical Intelligence
-https://www.ml.cmu.edu/academics/rankings/
+-Baruch (rank 1)
+    -[Probability Theory for Financial Applications](https://mfe.baruch.cuny.edu/wp-content/uploads/2020/11/pre-mfe-prob-feb2021-syllabus.pdf)
+    -[Numerical Linear Algebra for Financial Engineering](https://mfe.baruch.cuny.edu/wp-content/uploads/2020/11/pre-mfe-nla-feb2021-syllabus.pdf)
+-Carnegie Me (rank 2)
+    -[Master of Science in Computational Finance](https://www.cmu.edu/mscf/academics/curriculum/index.html)
+    -[Artifical Intelligence](https://www.ml.cmu.edu/academics/rankings/)
 
 Princeton (rank 3)
 
