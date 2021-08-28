@@ -57,14 +57,14 @@ Table of Contents
 
 ## ***Industry Leader***
 
-Tech Ceo profile: 
+- Tech Ceo profile(https://drive.google.com/file/d/141XZCOJLoyxDXmGEl5pVLvjHBfKOPvRB/view?fbclid=IwAR1qGWKGY-XVinx66hWuyD5Rbzbxi1fbRyMGbAelgHV934Cjs7btdWoTTVU)
 https://drive.google.com/file/d/141XZCOJLoyxDXmGEl5pVLvjHBfKOPvRB/view?fbclid=IwAR1qGWKGY-XVinx66hWuyD5Rbzbxi1fbRyMGbAelgHV934Cjs7btdWoTTVU
 
-Jim Simons - World's Smartest Billionaire:
+- Jim Simons - World's Smartest Billionaire:
 https://www.youtube.com/watch?v=6fr8XOtbPqM
 https://en.wikipedia.org/wiki/Jim_Simons_(mathematician)
 
-Victor DeMiguel - Phd LonDon Business Schools
+- Victor DeMiguel - Phd LonDon Business Schools
 http://faculty.london.edu/avmiguel/
 
 
