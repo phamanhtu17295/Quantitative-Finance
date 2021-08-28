@@ -52,12 +52,16 @@ Table of Contents
     -   heapsort
     -   quicksort
     -   merge sort
--   [Graphs](https://github.com/jwasham/coding-interview-university#graphs)
+-   [Industry_leader]
     -   directed
     -   undirected
     -   adjacency matrix
     -   adjacency list
     -   traversals: BFS, DFS
+
+
+
+
 -   [Even More Knowledge](https://github.com/jwasham/coding-interview-university#even-more-knowledge)
     -   [Recursion](https://github.com/jwasham/coding-interview-university#recursion)
     -   [Dynamic Programming](https://github.com/jwasham/coding-interview-university#dynamic-programming)
@@ -123,7 +127,6 @@ It's a long plan. It's going to take me years. If you are familiar with a lot of
 
 Tech Ceo profile: 
 https://drive.google.com/file/d/141XZCOJLoyxDXmGEl5pVLvjHBfKOPvRB/view?fbclid=IwAR1qGWKGY-XVinx66hWuyD5Rbzbxi1fbRyMGbAelgHV934Cjs7btdWoTTVU
-
 
 
 Jim Simons - World's Smartest Billionaire:
