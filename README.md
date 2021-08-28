@@ -57,46 +57,48 @@ Table of Contents
 
 ## ***Industry Leader***
 
-    Tech Ceo profile: 
-        https://drive.google.com/file/d/141XZCOJLoyxDXmGEl5pVLvjHBfKOPvRB/view?fbclid=IwAR1qGWKGY-XVinx66hWuyD5Rbzbxi1fbRyMGbAelgHV934Cjs7btdWoTTVU
+Tech Ceo profile: 
+https://drive.google.com/file/d/141XZCOJLoyxDXmGEl5pVLvjHBfKOPvRB/view?fbclid=IwAR1qGWKGY-XVinx66hWuyD5Rbzbxi1fbRyMGbAelgHV934Cjs7btdWoTTVU
 
-    Jim Simons - World's Smartest Billionaire:
-        https://www.youtube.com/watch?v=6fr8XOtbPqM
-        https://en.wikipedia.org/wiki/Jim_Simons_(mathematician)
+Jim Simons - World's Smartest Billionaire:
+https://www.youtube.com/watch?v=6fr8XOtbPqM
+https://en.wikipedia.org/wiki/Jim_Simons_(mathematician)
 
-    Victor DeMiguel - Phd LonDon Business Schools
-        http://faculty.london.edu/avmiguel/
-    
--   Top ranking schools in Quant
+Victor DeMiguel - Phd LonDon Business Schools
+http://faculty.london.edu/avmiguel/
+
+
 ## ***Top ranking School in Quantitative Finance: ***
 
 Top ranking School in Quantitative Finance: 
 https://quantnet.com/mfe-programs-rankings/?fbclid=IwAR3eLr5koxCc3RUrhVo1nBS7ZrRVXKL9jA84w3uXsGO484uLvAaBiq6v68g
-**    - Baruch (rank 1) **
+
+Baruch (rank 1)
+
 Probability Theory for Financial Applications
 https://mfe.baruch.cuny.edu/wp-content/uploads/2020/11/pre-mfe-prob-feb2021-syllabus.pdf
 
 Numerical Linear Algebra for Financial Engineering
 https://mfe.baruch.cuny.edu/wp-content/uploads/2020/11/pre-mfe-nla-feb2021-syllabus.pdf|
 
-**    - Carnegie Me (rank 2)
-**
+Carnegie Me (rank 2)
+
 Master of Science in Computational Finance
 https://www.cmu.edu/mscf/academics/curriculum/index.html
 
 Artifical Intelligence
 https://www.ml.cmu.edu/academics/rankings/
 
-**    - Princeton (rank 3)
-**
+Princeton (rank 3)
+
 Operation Research and Financial Engineering
 https://www.princeton.edu/academics/area-of-study/operations-research-and-financial-engineering
 
 Computer Science
 https://www.princeton.edu/academics/area-of-study/computer-science
 
-**     - Columbia (rank 4)
-**     - 
+Columbia (rank 4)
+
 Master of Science In Financial Engineering
 https://msfe.ieor.columbia.edu/
 
@@ -166,36 +168,3 @@ It's a long plan. It's going to take me years. If you are familiar with a lot of
 
 ## References:
 
-
-
-
-Top ranking School in Quantitative Finance: 
-https://quantnet.com/mfe-programs-rankings/?fbclid=IwAR3eLr5koxCc3RUrhVo1nBS7ZrRVXKL9jA84w3uXsGO484uLvAaBiq6v68g
-**    - Baruch (rank 1)
-**
-Probability Theory for Financial Applications
-https://mfe.baruch.cuny.edu/wp-content/uploads/2020/11/pre-mfe-prob-feb2021-syllabus.pdf
-
-Numerical Linear Algebra for Financial Engineering
-https://mfe.baruch.cuny.edu/wp-content/uploads/2020/11/pre-mfe-nla-feb2021-syllabus.pdf|
-
-**    - Carnegie Me (rank 2)
-**
-Master of Science in Computational Finance
-https://www.cmu.edu/mscf/academics/curriculum/index.html
-
-Artifical Intelligence
-https://www.ml.cmu.edu/academics/rankings/
-
-**    - Princeton (rank 3)
-**
-Operation Research and Financial Engineering
-https://www.princeton.edu/academics/area-of-study/operations-research-and-financial-engineering
-
-Computer Science
-https://www.princeton.edu/academics/area-of-study/computer-science
-
-**     - Columbia (rank 4)
-**     - 
-Master of Science In Financial Engineering
-https://msfe.ieor.columbia.edu/
