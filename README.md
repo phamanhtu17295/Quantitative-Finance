@@ -82,30 +82,30 @@ It's a life study plan. It's going to take me my whole since quantitative is evo
 ## ***Kaggle Competion and Note Book:***
 Kaggle is a great place to start for student, research who first starting with Quantitative and Machine Learning.
 
-- ***[Jane Street Prediction](https://www.kaggle.com/c/jane-street-market-prediction)***
-    -[EDA, Feautre Importance](https://www.kaggle.com/carlmcbrideellis/jane-street-eda-of-day-0-and-feature-importance)
-    -[Time, volatility](https://www.kaggle.com/pcarta/jane-street-time-horizons-and-volatilities)
-    -[Neural Network](https://www.kaggle.com/gogo827jz/jane-street-neural-network-starter)
-    -[Bottle neck encoder, MLP, Keras](https://www.kaggle.com/aimind/bottleneck-encoder-mlp-keras-tuner-8601c5)
-    -[Big Data sets reading](https://www.kaggle.com/rohanrao/tutorial-on-reading-large-datasets)
-    -[HFT](https://highfrequency.herokuapp.com/)
+-   ***[Jane Street Prediction](https://www.kaggle.com/c/jane-street-market-prediction)***
+    -   [EDA, Feautre Importance](https://www.kaggle.com/carlmcbrideellis/jane-street-eda-of-day-0-and-feature-importance)
+    -   [Time, volatility](https://www.kaggle.com/pcarta/jane-street-time-horizons-and-volatilities)
+    -   [Neural Network](https://www.kaggle.com/gogo827jz/jane-street-neural-network-starter)
+    -   [Bottle neck encoder, MLP, Keras](https://www.kaggle.com/aimind/bottleneck-encoder-mlp-keras-tuner-8601c5)
+    -   [Big Data sets reading](https://www.kaggle.com/rohanrao/tutorial-on-reading-large-datasets)
+    -   [HFT](https://highfrequency.herokuapp.com/)
     
- - ***[Winston Market Challenge](https://www.kaggle.com/c/the-winton-stock-market-challenge/overview)***
-    -[XGBoost](https://www.kaggle.com/zonghao/predicting-stock-returns-by-xgboost)
-    -[Solution Sharing](https://www.kaggle.com/c/the-winton-stock-market-challenge/discussion/18584)
+ -  ***[Winston Market Challenge](https://www.kaggle.com/c/the-winton-stock-market-challenge/overview)***
+    -   [XGBoost](https://www.kaggle.com/zonghao/predicting-stock-returns-by-xgboost)
+    -   [Solution Sharing](https://www.kaggle.com/c/the-winton-stock-market-challenge/discussion/18584)
 
-- ***[The Big Data Combine By Battle Fin](https://www.kaggle.com/c/battlefin-s-big-data-combine-forecasting-challenge/overview)***
-    - [Solution Sharing](https://www.kaggle.com/c/battlefin-s-big-data-combine-forecasting-challenge/discussion)
+-   ***[The Big Data Combine By Battle Fin](https://www.kaggle.com/c/battlefin-s-big-data-combine-forecasting-challenge/overview)***
+    -   [Solution Sharing](https://www.kaggle.com/c/battlefin-s-big-data-combine-forecasting-challenge/discussion)
 
-- ***[Two Sigma: Using News to Predict Stock Movements](https://www.kaggle.com/c/two-sigma-financial-news)***
-    -[Simple Note Book](https://www.kaggle.com/sudalairajkumar/simple-exploration-notebook-5)
-    -[Sharing thoughts after winning](https://www.kaggle.com/c/two-sigma-financial-news/discussion/102914)
-    -[Private Solution](https://www.kaggle.com/c/two-sigma-financial-modeling/discussion/29518)
-    -[Two Sigma News Official Getting Started Kernel](https://www.kaggle.com/dster/two-sigma-news-official-getting-started-kernel)
-    -[fulltimeseriesvalid LSTM, LGBM, GOSS, DART](https://www.kaggle.com/returnofsputnik/fulltimeseriesvalid-lstm-lgbm-goss-dart-v2?scriptVersionId=8352008)
-    -[EDA, feature engineering and everything](https://www.kaggle.com/artgor/eda-feature-engineering-and-everything)
-    -[Winner Interview](https://medium.com/kaggle-blog/two-sigma-financial-modeling-code-competition-5th-place-winners-interview-team-best-fitting-279a493c76bd)
-    -[Twitter sentiment Extaction-Analysis,EDA and Model](https://www.kaggle.com/tanulsingh077/twitter-sentiment-extaction-analysis-eda-and-model)
+-   ***[Two Sigma: Using News to Predict Stock Movements](https://www.kaggle.com/c/two-sigma-financial-news)***
+    -   [Simple Note Book](https://www.kaggle.com/sudalairajkumar/simple-exploration-notebook-5)
+    -   [Sharing thoughts after winning](https://www.kaggle.com/c/two-sigma-financial-news/discussion/102914)
+    -   [Private Solution](https://www.kaggle.com/c/two-sigma-financial-modeling/discussion/29518)
+    -   [Two Sigma News Official Getting Started Kernel](https://www.kaggle.com/dster/two-sigma-news-official-getting-started-kernel)
+    -   [fulltimeseriesvalid LSTM, LGBM, GOSS, DART](https://www.kaggle.com/returnofsputnik/fulltimeseriesvalid-lstm-lgbm-goss-dart-v2?scriptVersionId=8352008)
+    -   [EDA, feature engineering and everything](https://www.kaggle.com/artgor/eda-feature-engineering-and-everything)
+    -   [Winner Interview](https://medium.com/kaggle-blog/two-sigma-financial-modeling-code-competition-5th-place-winners-interview-team-best-fitting-279a493c76bd)
+    -   [Twitter sentiment Extaction-Analysis,EDA and Model](https://www.kaggle.com/tanulsingh077/twitter-sentiment-extaction-analysis-eda-and-model)
 
 
 ## ***Industry Leader***
