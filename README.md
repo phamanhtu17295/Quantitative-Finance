@@ -14,8 +14,6 @@ Table of Contents
 -   [How to use it](https://github.com/jwasham/coding-interview-university#how-to-use-it)
 -   [Don't feel you aren't smart enough](https://github.com/jwasham/coding-interview-university#dont-feel-you-arent-smart-enough)
 -   [About Video Resources](https://github.com/jwasham/coding-interview-university#about-video-resources)
--   [Interview Process & General Interview Prep](https://github.com/jwasham/coding-interview-university#interview-process--general-interview-prep)
--   [Pick One Language for the Interview](https://github.com/jwasham/coding-interview-university#pick-one-language-for-the-interview)
 -   [Book List](https://github.com/jwasham/coding-interview-university#book-list)
 -   [Before you Get Started](https://github.com/jwasham/coding-interview-university#before-you-get-started)
 -   [What you Won't See Covered](https://github.com/jwasham/coding-interview-university#what-you-wont-see-covered)
@@ -28,21 +26,7 @@ Table of Contents
     -   [Stack](https://github.com/jwasham/coding-interview-university#stack)
     -   [Queue](https://github.com/jwasham/coding-interview-university#queue)
     -   [Hash table](https://github.com/jwasham/coding-interview-university#hash-table)
--   [More Knowledge](https://github.com/jwasham/coding-interview-university#more-knowledge)
-    -   [Binary search](https://github.com/jwasham/coding-interview-university#binary-search)
-    -   [Bitwise operations](https://github.com/jwasham/coding-interview-university#bitwise-operations)
--   [Trees](https://github.com/jwasham/coding-interview-university#trees)
-    -   [Trees - Notes & Background](https://github.com/jwasham/coding-interview-university#trees---notes--background)
-    -   [Binary search trees: BSTs](https://github.com/jwasham/coding-interview-university#binary-search-trees-bsts)
-    -   [Heap / Priority Queue / Binary Heap](https://github.com/jwasham/coding-interview-university#heap--priority-queue--binary-heap)
-    -   balanced search trees (general concept, not details)
-    -   traversals: preorder, inorder, postorder, BFS, DFS
--   [Sorting](https://github.com/jwasham/coding-interview-university#sorting)
-    -   selection
-    -   insertion
-    -   heapsort
-    -   quicksort
-    -   merge sort
+
 -   [Industry Leader](https://github.com/phamanhtu17295/Financial-Technology#Industry-Leader-?)
 -   [Top ranking School in Quantitative Finance](https://github.com/phamanhtu17295/Financial-Technology#Top-ranking-School-in-Quantitative-Finance)
 -   [Kaggle Competion and Note Book](https://github.com/phamanhtu17295/Financial-Technology#Kaggle-Competion-and-Note-Book)
@@ -133,36 +117,6 @@ Kaggle is a great place to start for student, research who first starting with Q
     -   [Master of Science In Financial Engineering](https://msfe.ieor.columbia.edu/)
 -   Nanyang Technological University
     -   [MSc in Financial Technology](https://wcms-prod-admin.ntu.edu.sg/spms/about-us/mathematics/grad/msc-in-financial-technology)
-
-
-
-
--   [Even More Knowledge](https://github.com/jwasham/coding-interview-university#even-more-knowledge)
-    -   [Recursion](https://github.com/jwasham/coding-interview-university#recursion)
-    -   [Dynamic Programming](https://github.com/jwasham/coding-interview-university#dynamic-programming)
-    -   [Object-Oriented Programming](https://github.com/jwasham/coding-interview-university#object-oriented-programming)
-    -   [Design Patterns](https://github.com/jwasham/coding-interview-university#design-patterns)
-    -   [Combinatorics (n choose k) & Probability](https://github.com/jwasham/coding-interview-university#combinatorics-n-choose-k--probability)
-    -   [NP, NP-Complete and Approximation Algorithms](https://github.com/jwasham/coding-interview-university#np-np-complete-and-approximation-algorithms)
-    -   [Caches](https://github.com/jwasham/coding-interview-university#caches)
-    -   [Processes and Threads](https://github.com/jwasham/coding-interview-university#processes-and-threads)
-    -   [Testing](https://github.com/jwasham/coding-interview-university#testing)
-    -   [Scheduling](https://github.com/jwasham/coding-interview-university#scheduling)
-    -   [String searching & manipulations](https://github.com/jwasham/coding-interview-university#string-searching--manipulations)
-    -   [Tries](https://github.com/jwasham/coding-interview-university#tries)
-    -   [Floating Point Numbers](https://github.com/jwasham/coding-interview-university#floating-point-numbers)
-    -   [Unicode](https://github.com/jwasham/coding-interview-university#unicode)
-    -   [Endianness](https://github.com/jwasham/coding-interview-university#endianness)
-    -   [Networking](https://github.com/jwasham/coding-interview-university#networking)
--   [System Design, Scalability, Data Handling](https://github.com/jwasham/coding-interview-university#system-design-scalability-data-handling)  (if you have 4+ years experience)
--   [Final Review](https://github.com/jwasham/coding-interview-university#final-review)
--   [Coding Question Practice](https://github.com/jwasham/coding-interview-university#coding-question-practice)
--   [Coding exercises/challenges](https://github.com/jwasham/coding-interview-university#coding-exerciseschallenges)
--   [Once you're closer to the interview](https://github.com/jwasham/coding-interview-university#once-youre-closer-to-the-interview)
--   [Your Resume](https://github.com/jwasham/coding-interview-university#your-resume)
--   [Be thinking of for when the interview comes](https://github.com/jwasham/coding-interview-university#be-thinking-of-for-when-the-interview-comes)
--   [Have questions for the interviewer](https://github.com/jwasham/coding-interview-university#have-questions-for-the-interviewer)
--   [Once You've Got The Job](https://github.com/jwasham/coding-interview-university#once-youve-got-the-job)
 
 
 ## References:
