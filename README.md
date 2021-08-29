@@ -42,7 +42,7 @@ In investing, there are two simply way for you to get your alpha , you have more
 
 Please, feel free to make any contributions and feedback. 
 
-## Why use it:
+## Why use it
 I'm following this plan to advance in my career Quantitative Research. I've been study and working in Finance Industry since 2013. I have a Finance/Investment Banking degree, not a Financial Engineering degree. I have an itty-bitty amount of basic knowledge about: Calculus, Linear Algebra, Discrete Mathematics, Probability & Statistics from university. Think about my interest in Quantitative Finance:
 
 -   [How do I learn quantitative finance?](https://www.quora.com/How-do-I-learn-quantitative-finance)
@@ -57,8 +57,10 @@ I think the best way for practice-focused methodology is something like  ['pract
 
 It's a life study plan. It's going to take me my whole since quantitative is evolving as well as market.
 
-## ***Data processing and curation:***
+## ***Data processing and curation***
+
     ***Data Source - OHLC/Volume***
+    
     -   [yfinance](https://github.com/ranaroussi/yfinance) - Yahoo! Finance market data downloader (+faster Pandas Datareader)
     -   [findatapy](https://github.com/cuemacro/findatapy) - Python library to download market data via Bloomberg, Quandl, Yahoo etc.
     -   [googlefinance](https://github.com/hongtaocai/googlefinance) - Python module to get real-time stock data from Google Finance API.
