@@ -54,7 +54,7 @@ I'm following this plan to advance in my career Quantitative Research. I've been
 
 I think the best way for practice-focused methodology is something like  ['practice — learning — practice'](http://machinelearningmastery.com/machine-learning-for-programmers/#comment-358985), that means where students first come with some existing projects with problems and solutions (practice) to get familiar with traditional methods in the area and perhaps also with their methodology. After practicing with some elementary experiences, they can go into the books and study the underlying theory, which serves to guide their future advanced practice and will enhance their toolbox of solving practical problems. Studying theory also further improves their understanding on the elementary experiences, and will help them acquire advanced experiences more quickly.
 
-It's a life study plan. It's going to take me my whole since quantitative is evolving as well as market.
+It's a life study plan. It's going to take me my whole life since quantitative is evolving as well as market.
 
 ## ***Data processing and curation***
 
