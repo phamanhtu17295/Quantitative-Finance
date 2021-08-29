@@ -78,17 +78,24 @@ I think the best way for practice-focused methodology is something like  ['pract
 It's a life study plan. It's going to take me my whole since quantitative is evolving as well as market.
 
 ## ***Kaggle Competion and Note Book***
+    -   [Jane Street Prediction](https://www.kaggle.com/c/jane-street-market-prediction)
+        - [Jane Street: EDA of day 0 and feature importance](https://www.kaggle.com/carlmcbrideellis/jane-street-eda-of-day-0-and-feature-importance)
+
+
+
+
+
+
 
     - [Jane Street Prediction] (https://www.kaggle.com/c/jane-street-market-prediction)
-        - [Jane Street: EDA of day 0 and feature importance] (https://www.kaggle.com/carlmcbrideellis/jane-street-eda-of-day-0-and-feature-importance)
-
+        - [Jane Street: EDA of day 0 and feature importance]
 
 ## ***Industry Leader***
 
 - [Tech Ceo profile](https://drive.google.com/file/d/141XZCOJLoyxDXmGEl5pVLvjHBfKOPvRB/view?fbclid=IwAR1qGWKGY-XVinx66hWuyD5Rbzbxi1fbRyMGbAelgHV934Cjs7btdWoTTVU)
 - [Jim Simons - World's Smartest Billionaire](https://www.youtube.com/watch?v=6fr8XOtbPqM)
 - [Victor DeMiguel - Phd LonDon Business Schools](http://faculty.london.edu/avmiguel/)
-- [Marcos Lopez de Prado](https://www.linkedin.com/in/lopezdeprado/)]
+- [Marcos Lopez de Prado](https://www.linkedin.com/in/lopezdeprado/)
 - [Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
 
 ## ***Top ranking School in Quantitative Finance: ***
