@@ -1,20 +1,11 @@
 
 ## **Top-down learning path: Quantiative Analysis for Investment**
 
-Inspired by https://github.com/ZuzooVn/machine-learning-for-software-engineers, https://github.com/jwasham/coding-interview-university and many great one before me.
+Inspired by
+    - [ZuzooVn](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+    - [John Jwasham](https://github.com/jwasham/coding-interview-university)
 
 How I (Tu Anh) plan to become a Financial Engineer
-
-
-## ***What do I have for you ?***
-
-This is my long-term study plan for going from Equity Analyst to Financial/Machine Learning Engineer (self-taught, no CS degree) through real-life problem and top-ranked course from US (ref below)
-
-My main goal was to find an approach to studying Financial Engineer that is mainly hands-on and abstracts most of the Math for the beginner. This approach is unconventional because it’s the top-down and results-first approach designed for Financial Engineers.
-
-In investing, there are two simply way for you to get your alpha , you have more information networking with big player in the market or you processing the data you have faster. I choose the latte and I want all of you to be a part of my journey.
-
-Please, feel free to make any contributions and feedback. 
 
 Table of Contents
 =================
@@ -55,17 +46,25 @@ Table of Contents
 -   [Industry Leader](https://github.com/phamanhtu17295/Financial-Technology#Industry-Leader-?)
 -   [Top ranking School in Quantitative Finance](https://github.com/phamanhtu17295/Financial-Technology#Top-ranking-School-in-Quantitative-Finance)
 
+## ***What do I have for you ?***
 
+This is my long-term study plan for going from Equity Analyst to Financial/Machine Learning Engineer (self-taught, no CS degree) through real-life problem and research material from books, industry leaders, online course and top-ranked course from US (ref below)
+
+My main goal was to find an approach to studying Financial Engineer that is mainly hands-on and abstracts most of the Math for the beginner. This approach is unconventional because it’s the top-down and results-first approach designed for Financial Engineers.
+
+In investing, there are two simply way for you to get your alpha , you have more information networking with big player in the market or you processing the data you have faster. I choose the latte and I want all of you to be a part of my journey.
+
+Please, feel free to make any contributions and feedback. 
 ## Why use it:
-I'm following this plan to prepare for my near-future job: Quantitative Research. I've been study and working in Finance Industry since 2013. I have a Finance/Investment Banking degree, not a Financial Engineering degree. I have an itty-bitty amount of basic knowledge about: Calculus, Linear Algebra, Discrete Mathematics, Probability & Statistics from university. Think about my interest in Quantitative Finance:
+I'm following this plan to advance in my career Quantitative Research. I've been study and working in Finance Industry since 2013. I have a Finance/Investment Banking degree, not a Financial Engineering degree. I have an itty-bitty amount of basic knowledge about: Calculus, Linear Algebra, Discrete Mathematics, Probability & Statistics from university. Think about my interest in Quantitative Finance:
 
--
+-   [How do I learn quantitative finance?](https://www.quora.com/How-do-I-learn-quantitative-finance)
 -   [Can I learn and get a job in Machine Learning without studying CS Master and PhD?](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD)
-    -   _"You can, but it is far more difficult than when I got into the field."_  [Drac Smith](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD/answer/Drac-Smith?srid=oT0p)
+    - "You can, but it is far more difficult than when I got into the field."_  [Drac Smith](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD/answer/Drac-Smith?srid=oT0p)
 -   [How do I get a job in Machine Learning as a software programmer who self-studies Machine Learning, but never has a chance to use it at work?](https://www.quora.com/How-do-I-get-a-job-in-Machine-Learning-as-a-software-programmer-who-self-studies-Machine-Learning-but-never-has-a-chance-to-use-it-at-work)
 -   [What skills are needed for machine learning jobs?](http://programmers.stackexchange.com/questions/79476/what-skills-are-needed-for-machine-learning-jobs)
-    -   _"First, you need to have a decent CS/Math background. ML is an advanced topic so most textbooks assume that you have that background. Second, machine learning is a very general topic with many sub-specialties requiring unique skills. You may want to browse the curriculum of an MS program in Machine Learning to see the course, curriculum and textbook."_  [Uri](http://softwareengineering.stackexchange.com/a/79717)
-    -   _"Probability, distributed computing, and Statistics."_  [Hydrangea](http://softwareengineering.stackexchange.com/a/79575)
+-  "First, you need to have a decent CS/Math background. ML is an advanced topic so most textbooks assume that you have that background. Second, machine learning is a very general topic with many sub-specialties requiring unique skills. You may want to browse the curriculum of an MS program in Machine Learning to see the course, curriculum and textbook."_  [Uri](http://softwareengineering.stackexchange.com/a/79717)
+-  "Probability, distributed computing, and Statistics."_  [Hydrangea](http://softwareengineering.stackexchange.com/a/79575)
 
 I find myself in times of trouble.
 
@@ -76,7 +75,12 @@ AFAIK,  [There are two sides to machine learning](http://machinelearningmastery.
 
 I think the best way for practice-focused methodology is something like  ['practice — learning — practice'](http://machinelearningmastery.com/machine-learning-for-programmers/#comment-358985), that means where students first come with some existing projects with problems and solutions (practice) to get familiar with traditional methods in the area and perhaps also with their methodology. After practicing with some elementary experiences, they can go into the books and study the underlying theory, which serves to guide their future advanced practice and will enhance their toolbox of solving practical problems. Studying theory also further improves their understanding on the elementary experiences, and will help them acquire advanced experiences more quickly.
 
-It's a long plan. It's going to take me years. If you are familiar with a lot of this already it will take you a lot less time.
+It's a life study plan. It's going to take me my whole since quantitative is evolving as well as market.
+
+## ***Kaggle Competion and Note Book***
+    - [Jane Street Prediction](https://www.kaggle.com/c/jane-street-market-prediction)
+        - [Jane Street: EDA of day 0 and feature importance](https://www.kaggle.com/carlmcbrideellis/jane-street-eda-of-day-0-and-feature-importance)
+
 
 ## ***Industry Leader***
 
