@@ -10,16 +10,17 @@ How I (Tu Anh) plan to become a Financial Engineer
 Table of Contents
 =================
 -   [What do I have for you?](https://github.com/phamanhtu17295/Financial-Technology#What-do-I-have-for-you-?)
--   [Why use it?](https://github.com/jwasham/coding-interview-university#why-use-it)
--   [How to use it](https://github.com/jwasham/coding-interview-university#how-to-use-it)
--   [Don't feel you aren't smart enough](https://github.com/jwasham/coding-interview-university#dont-feel-you-arent-smart-enough)
+-   [Why use it?](https://github.com/jwasham/phamanhtu17295/Financial-Technology#why-use-it)
+-   [How to use it](https://github.com/jwasham/phamanhtu17295/Financial-Technology#how-to-use-it)
+-   [Data processing and curation](https://github.com/jwasham/phamanhtu17295/Financial-Technology#Data-processing-and-curation)
+-   [Investment Strategies/Alpha/Feature Analysis]
+-   [Portfolio Management/Diversified]
+-   [Execution]
+-   [Back test]
+-   [Risk Management]
+-   [Mathematics Finance]
 -   [About Video Resources](https://github.com/jwasham/coding-interview-university#about-video-resources)
 -   [Book List](https://github.com/jwasham/coding-interview-university#book-list)
--   [Before you Get Started](https://github.com/jwasham/coding-interview-university#before-you-get-started)
--   [What you Won't See Covered](https://github.com/jwasham/coding-interview-university#what-you-wont-see-covered)
--   [The Daily Plan](https://github.com/jwasham/coding-interview-university#the-daily-plan)
--   [Prerequisite Knowledge](https://github.com/jwasham/coding-interview-university#prerequisite-knowledge)
--   [Algorithmic complexity / Big-O / Asymptotic analysis](https://github.com/jwasham/coding-interview-university#algorithmic-complexity--big-o--asymptotic-analysis)
 -   [Data Structures](https://github.com/jwasham/coding-interview-university#data-structures)
     -   [Arrays](https://github.com/jwasham/coding-interview-university#arrays)
     -   [Linked Lists](https://github.com/jwasham/coding-interview-university#linked-lists)
@@ -55,6 +56,31 @@ I'm following this plan to advance in my career Quantitative Research. I've been
 I think the best way for practice-focused methodology is something like  ['practice — learning — practice'](http://machinelearningmastery.com/machine-learning-for-programmers/#comment-358985), that means where students first come with some existing projects with problems and solutions (practice) to get familiar with traditional methods in the area and perhaps also with their methodology. After practicing with some elementary experiences, they can go into the books and study the underlying theory, which serves to guide their future advanced practice and will enhance their toolbox of solving practical problems. Studying theory also further improves their understanding on the elementary experiences, and will help them acquire advanced experiences more quickly.
 
 It's a life study plan. It's going to take me my whole since quantitative is evolving as well as market.
+
+## ***Data processing and curation:***
+    ***Data Source - OHLC/Volume***
+    -   [yfinance](https://github.com/ranaroussi/yfinance) - Yahoo! Finance market data downloader (+faster Pandas Datareader)
+    -   [findatapy](https://github.com/cuemacro/findatapy) - Python library to download market data via Bloomberg, Quandl, Yahoo etc.
+    -   [googlefinance](https://github.com/hongtaocai/googlefinance) - Python module to get real-time stock data from Google Finance API.
+    -   [pandas-datareader](https://github.com/pydata/pandas-datareader) - Python module to get data from various sources (Google Finance, Yahoo Finance, FRED, OECD, Fama/French, World Bank, Eurostat...) into Pandas datastructures such as DataFrame, Panel with a caching mechanism.
+    -   [pandas-finance](https://github.com/davidastephens/pandas-finance) - High level API for access to and analysis of financial data.
+    -   [exchange](https://github.com/akarat/exchange) - Get current exchange rate.
+    -   [coinmarketcap](https://github.com/barnumbirr/coinmarketcap) - Python API for coinmarketcap.
+    -   [investpy](https://github.com/alvarobartt/investpy) - Financial Data Extraction from Investing.com with Python! <https://investpy.readthedocs.io/>
+    -   [FinanceDataReader](https://github.com/FinanceData/FinanceDataReader) - Open Source Financial data reader for U.S, Korean, Japanese, Chinese, Vietnamese Stocks
+    -   [VNquant](https://github.com/phamdinhkhanh/vnquant) - API for Vietnamese Stocks
+
+## ***Investment Strategies/Alpha/Feature Analysis:***
+
+## ***Portfolio Management/Diversified:***
+
+## ***Back test:***
+
+## ***Risk Management:***
+
+## ***Mathematics:***
+
+## ***To be update: Execution/Software Development/HPC Infrastructure***
 
 ## ***Kaggle Competion and Note Book:***
 Kaggle is a great place to start for student, research who first starting with Quantitative and Machine Learning.
