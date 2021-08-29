@@ -52,13 +52,6 @@ I'm following this plan to advance in my career Quantitative Research. I've been
 -  "First, you need to have a decent CS/Math background. ML is an advanced topic so most textbooks assume that you have that background. Second, machine learning is a very general topic with many sub-specialties requiring unique skills. You may want to browse the curriculum of an MS program in Machine Learning to see the course, curriculum and textbook."_  [Uri](http://softwareengineering.stackexchange.com/a/79717)
 -  "Probability, distributed computing, and Statistics."_  [Hydrangea](http://softwareengineering.stackexchange.com/a/79575)
 
-I find myself in times of trouble.
-
-AFAIK,  [There are two sides to machine learning](http://machinelearningmastery.com/programmers-can-get-into-machine-learning/):
-
--   Practical Machine Learning: This is about querying databases, cleaning data, writing scripts to transform data and gluing algorithm and libraries together and writing custom code to squeeze reliable answers from data to satisfy difficult and ill-defined questions. It’s the mess of reality.
--   Theoretical Machine Learning: This is about math and abstraction and idealized scenarios and limits and beauty and informing what is possible. It is a whole lot neater and cleaner and removed from the mess of reality.
-
 I think the best way for practice-focused methodology is something like  ['practice — learning — practice'](http://machinelearningmastery.com/machine-learning-for-programmers/#comment-358985), that means where students first come with some existing projects with problems and solutions (practice) to get familiar with traditional methods in the area and perhaps also with their methodology. After practicing with some elementary experiences, they can go into the books and study the underlying theory, which serves to guide their future advanced practice and will enhance their toolbox of solving practical problems. Studying theory also further improves their understanding on the elementary experiences, and will help them acquire advanced experiences more quickly.
 
 It's a life study plan. It's going to take me my whole since quantitative is evolving as well as market.
