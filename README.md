@@ -10,17 +10,17 @@ How I (Tu Anh) plan to become a Financial Engineer
 Table of Contents
 =================
 -   [What do I have for you?](https://github.com/phamanhtu17295/Quantitative-Finance#What-do-I-have-for-you-?)
--   [Why use it?](https://github.com/jwasham/phamanhtu17295/Financial-Technology#why-use-it)
--   [How to use it](https://github.com/jwasham/phamanhtu17295/Financial-Technology#how-to-use-it)
--   [Data processing and curation](https://github.com/jwasham/phamanhtu17295/Financial-Technology#Data-processing-and-curation)
+-   [Why use it?](https://github.com/jwasham/phamanhtu17295/Quantitative-Finance#why-use-it)
+-   [How to use it](https://github.com/jwasham/phamanhtu17295/Quantitative-Finance#how-to-use-it)
+-   [Data processing and curation](https://github.com/jwasham/phamanhtu17295/Quantitative-Finance#Data-processing-and-curation)
 -   [Investment Strategies/Alpha/Feature Analysis]
 -   [Portfolio Management/Diversified]
 -   [Execution]
 -   [Back test]
 -   [Risk Management]
 -   [Mathematics Finance]
--   [About Video Resources](https://github.com/jwasham/coding-interview-university#about-video-resources)
--   [Book List](https://github.com/jwasham/coding-interview-university#book-list)
+-   [About Video Resources](https://github.com/jwasham/Quantitative-Finance#about-video-resources)
+-   [Book List](https://github.com/jwasham/Quantitative-Finance#book-list)
 -   [Data Structures](https://github.com/jwasham/coding-interview-university#data-structures)
     -   [Arrays](https://github.com/jwasham/coding-interview-university#arrays)
     -   [Linked Lists](https://github.com/jwasham/coding-interview-university#linked-lists)
@@ -28,9 +28,9 @@ Table of Contents
     -   [Queue](https://github.com/jwasham/coding-interview-university#queue)
     -   [Hash table](https://github.com/jwasham/coding-interview-university#hash-table)
 
--   [Industry Leader](https://github.com/phamanhtu17295/Financial-Technology#Industry-Leader-?)
--   [Top ranking School in Quantitative Finance](https://github.com/phamanhtu17295/Financial-Technology#Top-ranking-School-in-Quantitative-Finance)
--   [Kaggle Competion and Note Book](https://github.com/phamanhtu17295/Financial-Technology#Kaggle-Competion-and-Note-Book)
+-   [Industry Leader](https://github.com/phamanhtu17295/Quantitative-Finance#Industry-Leader-?)
+-   [Top ranking School in Quantitative Finance](https://github.com/phamanhtu17295/Quantitative-Finance#Top-ranking-School-in-Quantitative-Finance)
+-   [Kaggle Competion and Note Book](https://github.com/phamanhtu17295/Quantitative-Finance#Kaggle-Competion-and-Note-Book)
 
 ## ***What do I have for you ?***
 
