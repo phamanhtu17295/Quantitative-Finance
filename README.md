@@ -10,9 +10,8 @@ How I (Tu Anh) plan to become a Financial Engineer
 Table of Contents
 =================
 -   [What do I have for you?](#What-do-I-have-for-you-?)
--   [Why use it?](https://github.com/jwasham/phamanhtu17295/Quantitative-Finance#why-use-it)
--   [How to use it](https://github.com/jwasham/phamanhtu17295/Quantitative-Finance#how-to-use-it)
--   [Data processing and curation](https://github.com/jwasham/phamanhtu17295/Quantitative-Finance#Data-processing-and-curation)
+-   [Why use it?](#why-use-it?)
+-   [Data processing and curation](#Data-processing-and-curation)
 -   [Investment Strategies/Alpha/Feature Analysis]
 -   [Portfolio Management/Diversified]
 -   [Execution]
@@ -42,7 +41,7 @@ In investing, there are two simply way for you to get your alpha , you have more
 
 Please, feel free to make any contributions and feedback. 
 
-## Why use it
+## Why use it?
 I'm following this plan to advance in my career Quantitative Research. I've been study and working in Finance Industry since 2013. I have a Finance/Investment Banking degree, not a Financial Engineering degree. I have an itty-bitty amount of basic knowledge about: Calculus, Linear Algebra, Discrete Mathematics, Probability & Statistics from university. Think about my interest in Quantitative Finance:
 
 -   [How do I learn quantitative finance?](https://www.quora.com/How-do-I-learn-quantitative-finance)
