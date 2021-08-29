@@ -27,9 +27,9 @@ Table of Contents
     -   [Queue](https://github.com/jwasham/coding-interview-university#queue)
     -   [Hash table](https://github.com/jwasham/coding-interview-university#hash-table)
 
--   [Industry Leader](https://github.com/phamanhtu17295/Quantitative-Finance#Industry-Leader-?)
--   [Top ranking School in Quantitative Finance](https://github.com/phamanhtu17295/Quantitative-Finance#Top-ranking-School-in-Quantitative-Finance)
--   [Kaggle Competion and Note Book](https://github.com/phamanhtu17295/Quantitative-Finance#Kaggle-Competion-and-Note-Book)
+-   [Industry Leader](#Industry-Leader)
+-   [Top ranking School in Quantitative Finance](#Top-ranking-School-in-Quantitative-Finance:)
+-   [Kaggle Competion and Note Book](#Kaggle-Competion-and-Note-Book)
 
 ## ***What do I have for you ?***
 
@@ -83,6 +83,32 @@ It's a life study plan. It's going to take me my whole since quantitative is evo
 
 ## ***To be update: Execution/Software Development/HPC Infrastructure***
 
+## ***Industry Leader***
+
+- [Tech Ceo profile](https://drive.google.com/file/d/141XZCOJLoyxDXmGEl5pVLvjHBfKOPvRB/view?fbclid=IwAR1qGWKGY-XVinx66hWuyD5Rbzbxi1fbRyMGbAelgHV934Cjs7btdWoTTVU)
+- [Jim Simons - World's Smartest Billionaire](https://www.youtube.com/watch?v=6fr8XOtbPqM)
+- [Victor DeMiguel - Phd LonDon Business Schools](http://faculty.london.edu/avmiguel/)
+- [Marcos Lopez de Prado](https://www.linkedin.com/in/lopezdeprado/)
+- [Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
+
+## ***Top ranking School in Quantitative Finance: ***
+
+-   [Top ranking School in Quantitative Finance](https://quantnet.com/mfe-programs-rankings/?fbclid=IwAR3eLr5koxCc3RUrhVo1nBS7ZrRVXKL9jA84w3uXsGO484uLvAaBiq6v68g)
+
+-   Baruch (rank 1)
+    -   [Probability Theory for Financial Applications](https://mfe.baruch.cuny.edu/wp-content/uploads/2020/11/pre-mfe-prob-feb2021-syllabus.pdf)
+    -   [Numerical Linear Algebra for Financial Engineering](https://mfe.baruch.cuny.edu/wp-content/uploads/2020/11/pre-mfe-nla-feb2021-syllabus.pdf)
+-   Carnegie Me (rank 2)
+    -   [Master of Science in Computational Finance](https://www.cmu.edu/mscf/academics/curriculum/index.html)
+    -   [Artifical Intelligence](https://www.ml.cmu.edu/academics/rankings/)
+-   Princeton (rank 3)
+    -   [Operation Research and Financial Engineering](https://www.princeton.edu/academics/area-of-study/operations-research-and-financial-engineering)
+    -   [Computer Science](https://www.princeton.edu/academics/area-of-study/computer-science)
+-   Columbia (rank 4)
+    -   [Master of Science In Financial Engineering](https://msfe.ieor.columbia.edu/)
+-   Nanyang Technological University
+    -   [MSc in Financial Technology](https://wcms-prod-admin.ntu.edu.sg/spms/about-us/mathematics/grad/msc-in-financial-technology)
+
 ## ***Kaggle Competion and Note Book:***
 Kaggle is a great place to start for student, research who first starting with Quantitative and Machine Learning.
 
@@ -110,35 +136,4 @@ Kaggle is a great place to start for student, research who first starting with Q
     -   [EDA, feature engineering and everything](https://www.kaggle.com/artgor/eda-feature-engineering-and-everything)
     -   [Winner Interview](https://medium.com/kaggle-blog/two-sigma-financial-modeling-code-competition-5th-place-winners-interview-team-best-fitting-279a493c76bd)
     -   [Twitter sentiment Extaction-Analysis,EDA and Model](https://www.kaggle.com/tanulsingh077/twitter-sentiment-extaction-analysis-eda-and-model)
-
-
-## ***Industry Leader***
-
-- [Tech Ceo profile](https://drive.google.com/file/d/141XZCOJLoyxDXmGEl5pVLvjHBfKOPvRB/view?fbclid=IwAR1qGWKGY-XVinx66hWuyD5Rbzbxi1fbRyMGbAelgHV934Cjs7btdWoTTVU)
-- [Jim Simons - World's Smartest Billionaire](https://www.youtube.com/watch?v=6fr8XOtbPqM)
-- [Victor DeMiguel - Phd LonDon Business Schools](http://faculty.london.edu/avmiguel/)
-- [Marcos Lopez de Prado](https://www.linkedin.com/in/lopezdeprado/)
-- [Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
-
-## ***Top ranking School in Quantitative Finance: ***
-
--   [Top ranking School in Quantitative Finance](https://quantnet.com/mfe-programs-rankings/?fbclid=IwAR3eLr5koxCc3RUrhVo1nBS7ZrRVXKL9jA84w3uXsGO484uLvAaBiq6v68g)
-
--   Baruch (rank 1)
-    -   [Probability Theory for Financial Applications](https://mfe.baruch.cuny.edu/wp-content/uploads/2020/11/pre-mfe-prob-feb2021-syllabus.pdf)
-    -   [Numerical Linear Algebra for Financial Engineering](https://mfe.baruch.cuny.edu/wp-content/uploads/2020/11/pre-mfe-nla-feb2021-syllabus.pdf)
--   Carnegie Me (rank 2)
-    -   [Master of Science in Computational Finance](https://www.cmu.edu/mscf/academics/curriculum/index.html)
-    -   [Artifical Intelligence](https://www.ml.cmu.edu/academics/rankings/)
--   Princeton (rank 3)
-    -   [Operation Research and Financial Engineering](https://www.princeton.edu/academics/area-of-study/operations-research-and-financial-engineering)
-    -   [Computer Science](https://www.princeton.edu/academics/area-of-study/computer-science)
--   Columbia (rank 4)
-    -   [Master of Science In Financial Engineering](https://msfe.ieor.columbia.edu/)
--   Nanyang Technological University
-    -   [MSc in Financial Technology](https://wcms-prod-admin.ntu.edu.sg/spms/about-us/mathematics/grad/msc-in-financial-technology)
-
-
 ## References:
-
-a
