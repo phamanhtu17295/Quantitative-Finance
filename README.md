@@ -9,7 +9,7 @@ How I (Tu Anh) plan to become a Financial Engineer
 
 Table of Contents
 =================
--   [What do I have for you?](https://github.com/phamanhtu17295/Quantitative-Finance#What-do-I-have-for-you-?)
+-   [What do I have for you?](#What-do-I-have-for-you-?)
 -   [Why use it?](https://github.com/jwasham/phamanhtu17295/Quantitative-Finance#why-use-it)
 -   [How to use it](https://github.com/jwasham/phamanhtu17295/Quantitative-Finance#how-to-use-it)
 -   [Data processing and curation](https://github.com/jwasham/phamanhtu17295/Quantitative-Finance#Data-processing-and-curation)
