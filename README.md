@@ -45,6 +45,7 @@ Table of Contents
     -   merge sort
 -   [Industry Leader](https://github.com/phamanhtu17295/Financial-Technology#Industry-Leader-?)
 -   [Top ranking School in Quantitative Finance](https://github.com/phamanhtu17295/Financial-Technology#Top-ranking-School-in-Quantitative-Finance)
+-   [Kaggle Competion and Note Book](https://github.com/phamanhtu17295/Financial-Technology#Kaggle-Competion-and-Note-Book)
 
 ## ***What do I have for you ?***
 
@@ -55,6 +56,7 @@ My main goal was to find an approach to studying Financial Engineer that is main
 In investing, there are two simply way for you to get your alpha , you have more information networking with big player in the market or you processing the data you have faster. I choose the latte and I want all of you to be a part of my journey.
 
 Please, feel free to make any contributions and feedback. 
+
 ## Why use it:
 I'm following this plan to advance in my career Quantitative Research. I've been study and working in Finance Industry since 2013. I have a Finance/Investment Banking degree, not a Financial Engineering degree. I have an itty-bitty amount of basic knowledge about: Calculus, Linear Algebra, Discrete Mathematics, Probability & Statistics from university. Think about my interest in Quantitative Finance:
 
@@ -77,18 +79,34 @@ I think the best way for practice-focused methodology is something like  ['pract
 
 It's a life study plan. It's going to take me my whole since quantitative is evolving as well as market.
 
-## ***Kaggle Competion and Note Book***
-    -   [Jane Street Prediction](https://www.kaggle.com/c/jane-street-market-prediction)
-        - [Jane Street: EDA of day 0 and feature importance](https://www.kaggle.com/carlmcbrideellis/jane-street-eda-of-day-0-and-feature-importance)
+## ***Kaggle Competion and Note Book:***
+Kaggle is a great place to start for student, research who first starting with Quantitative and Machine Learning.
 
+- ***[Jane Street Prediction](https://www.kaggle.com/c/jane-street-market-prediction)***
+    -[EDA, Feautre Importance](https://www.kaggle.com/carlmcbrideellis/jane-street-eda-of-day-0-and-feature-importance)
+    -[Time, volatility](https://www.kaggle.com/pcarta/jane-street-time-horizons-and-volatilities)
+    -[Neural Network](https://www.kaggle.com/gogo827jz/jane-street-neural-network-starter)
+    -[Bottle neck encoder, MLP, Keras](https://www.kaggle.com/aimind/bottleneck-encoder-mlp-keras-tuner-8601c5)
+    -[Big Data sets reading](https://www.kaggle.com/rohanrao/tutorial-on-reading-large-datasets)
+    -[HFT](https://highfrequency.herokuapp.com/)
+    
+ - ***[Winston Market Challenge](https://www.kaggle.com/c/the-winton-stock-market-challenge/overview)***
+    -[XGBoost](https://www.kaggle.com/zonghao/predicting-stock-returns-by-xgboost)
+    -[Solution Sharing](https://www.kaggle.com/c/the-winton-stock-market-challenge/discussion/18584)
 
+- ***[The Big Data Combine By Battle Fin](https://www.kaggle.com/c/battlefin-s-big-data-combine-forecasting-challenge/overview)***
+    - [Solution Sharing](https://www.kaggle.com/c/battlefin-s-big-data-combine-forecasting-challenge/discussion)
 
+- ***[Two Sigma: Using News to Predict Stock Movements](https://www.kaggle.com/c/two-sigma-financial-news)***
+    -[Simple Note Book](https://www.kaggle.com/sudalairajkumar/simple-exploration-notebook-5)
+    -[Sharing thoughts after winning](https://www.kaggle.com/c/two-sigma-financial-news/discussion/102914)
+    -[Private Solution](https://www.kaggle.com/c/two-sigma-financial-modeling/discussion/29518)
+    -[Two Sigma News Official Getting Started Kernel](https://www.kaggle.com/dster/two-sigma-news-official-getting-started-kernel)
+    -[fulltimeseriesvalid LSTM, LGBM, GOSS, DART](https://www.kaggle.com/returnofsputnik/fulltimeseriesvalid-lstm-lgbm-goss-dart-v2?scriptVersionId=8352008)
+    -[EDA, feature engineering and everything](https://www.kaggle.com/artgor/eda-feature-engineering-and-everything)
+    -[Winner Interview](https://medium.com/kaggle-blog/two-sigma-financial-modeling-code-competition-5th-place-winners-interview-team-best-fitting-279a493c76bd)
+    -[Twitter sentiment Extaction-Analysis,EDA and Model](https://www.kaggle.com/tanulsingh077/twitter-sentiment-extaction-analysis-eda-and-model)
 
-
-
-
-    - [Jane Street Prediction] (https://www.kaggle.com/c/jane-street-market-prediction)
-        - [Jane Street: EDA of day 0 and feature importance]
 
 ## ***Industry Leader***
 
