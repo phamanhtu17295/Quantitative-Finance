@@ -77,7 +77,7 @@ Data Source - OHLC/Volume
     -   [Finrl](https://github.com/AI4Finance-LLC/FinRL)
     -   [Ta-lib](https://github.com/mrjbq7/ta-lib)
 - Fundamental Strategis(To be updated)
-    - Canlism, Buffest, Value, Growth, Piotroski, Altman, Beneish
+    - Canlism, Buffett, Value, Growth, Piotroski, Altman, Beneish
 
 ## ***Portfolio Management/Diversified:***
 - [MVO, Black Litter Man, HRP](https://github.com/robertmartin8/PyPortfolioOpt)
