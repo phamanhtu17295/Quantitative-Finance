@@ -59,17 +59,17 @@ It's a life study plan. It's going to take me my whole life since quantitative i
 ## ***Data processing and curation***
 
 Data Source - OHLC/Volume
-    
-    -   [yfinance](https://github.com/ranaroussi/yfinance) - Yahoo! Finance market data downloader (+faster Pandas Datareader)
-    -   [findatapy](https://github.com/cuemacro/findatapy) - Python library to download market data via Bloomberg, Quandl, Yahoo etc.
-    -   [googlefinance](https://github.com/hongtaocai/googlefinance) - Python module to get real-time stock data from Google Finance API.
-    -   [pandas-datareader](https://github.com/pydata/pandas-datareader) - Python module to get data from various sources (Google Finance, Yahoo Finance, FRED, OECD, Fama/French, World Bank, Eurostat...) into Pandas datastructures such as DataFrame, Panel with a caching mechanism.
-    -   [pandas-finance](https://github.com/davidastephens/pandas-finance) - High level API for access to and analysis of financial data.
-    -   [exchange](https://github.com/akarat/exchange) - Get current exchange rate.
-    -   [coinmarketcap](https://github.com/barnumbirr/coinmarketcap) - Python API for coinmarketcap.
-    -   [investpy](https://github.com/alvarobartt/investpy) - Financial Data Extraction from Investing.com with Python! <https://investpy.readthedocs.io/>
-    -   [FinanceDataReader](https://github.com/FinanceData/FinanceDataReader) - Open Source Financial data reader for U.S, Korean, Japanese, Chinese, Vietnamese Stocks
-    -   [VNquant](https://github.com/phamdinhkhanh/vnquant) - API for Vietnamese Stocks
+   
+-   [yfinance](https://github.com/ranaroussi/yfinance) - Yahoo! Finance market data downloader (+faster Pandas Datareader)
+-   [findatapy](https://github.com/cuemacro/findatapy) - Python library to download market data via Bloomberg, Quandl, Yahoo etc.
+-   [googlefinance](https://github.com/hongtaocai/googlefinance) - Python module to get real-time stock data from Google Finance API.
+-   [pandas-datareader](https://github.com/pydata/pandas-datareader) - Python module to get data from various sources (Google Finance, Yahoo Finance, FRED, OECD, Fama/French, World Bank, Eurostat...) into Pandas datastructures such as DataFrame, Panel with a caching mechanism.
+-   [pandas-finance](https://github.com/davidastephens/pandas-finance) - High level API for access to and analysis of financial data.
+-   [exchange](https://github.com/akarat/exchange) - Get current exchange rate.
+-   [coinmarketcap](https://github.com/barnumbirr/coinmarketcap) - Python API for coinmarketcap.
+-   [investpy](https://github.com/alvarobartt/investpy) - Financial Data Extraction from Investing.com with Python! <https://investpy.readthedocs.io/>
+-   [FinanceDataReader](https://github.com/FinanceData/FinanceDataReader) - Open Source Financial data reader for U.S, Korean, Japanese, Chinese, Vietnamese Stocks
+-   [VNquant](https://github.com/phamdinhkhanh/vnquant) - API for Vietnamese Stocks
 
 ## ***Investment Strategies/Alpha/Feature Analysis:***
 - Technical Strategies
@@ -99,7 +99,7 @@ Data Source - OHLC/Volume
 - [Marcos Lopez de Prado](https://www.linkedin.com/in/lopezdeprado/)
 - [Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
 
-## ***Top ranking School in Quantitative Finance: ***
+## Top ranking School in Quantitative Finance:
 
 -   [Top ranking School in Quantitative Finance](https://quantnet.com/mfe-programs-rankings/?fbclid=IwAR3eLr5koxCc3RUrhVo1nBS7ZrRVXKL9jA84w3uXsGO484uLvAaBiq6v68g)
 
