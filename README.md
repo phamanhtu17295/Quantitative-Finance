@@ -30,12 +30,12 @@ This is my long-term study plan for going from Equity Analyst to Financial/Machi
 
 My main goal was to find an approach to studying Financial Engineer that is mainly hands-on and abstracts most of the Math for the beginner. This approach is unconventional because it’s the top-down and results-first approach designed for Financial Engineers.
 
-In investing, there are two simply way for you to get your alpha , you have more information networking with big player in the market or you processing the data you have faster. I choose the latte and I want all of you to be a part of my journey.
+In investing, there are two way for you to get your alpha , you have more information or you processing the data you have faster. I choose the latte and I want all of you to be a part of my journey.
 
 Please, feel free to make any contributions and feedback. 
 
 ## Why use it?
-I'm following this plan to advance in my career Quantitative Research. I've been study and working in Finance Industry since 2013. I have a Finance/Investment Banking degree, not a Financial Engineering degree. I have an itty-bitty amount of basic knowledge about: Calculus, Linear Algebra, Discrete Mathematics, Probability & Statistics from university. Think about my interest in Quantitative Finance:
+I'm following this plan to advance in my career Quantitative Research. I've been study and working in Finance Industry since 2013. I have a Finance/Investment Banking degree, not a Financial Engineering degree. I have an itty-bitty amount of basic knowledge about: Calculus, Linear Algebra, Discrete Mathematics, Probability & Statistics from university. 
 
 -   [How do I learn quantitative finance?](https://www.quora.com/How-do-I-learn-quantitative-finance)
 -   [Can I learn and get a job in Machine Learning without studying CS Master and PhD?](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD)
@@ -47,7 +47,7 @@ I'm following this plan to advance in my career Quantitative Research. I've been
 
 I think the best way for practice-focused methodology is something like  ['practice — learning — practice'](http://machinelearningmastery.com/machine-learning-for-programmers/#comment-358985), that means where students first come with some existing projects with problems and solutions (practice) to get familiar with traditional methods in the area and perhaps also with their methodology. After practicing with some elementary experiences, they can go into the books and study the underlying theory, which serves to guide their future advanced practice and will enhance their toolbox of solving practical problems. Studying theory also further improves their understanding on the elementary experiences, and will help them acquire advanced experiences more quickly.
 
-It's a life study plan. It's going to take me my whole life since quantitative is evolving as well as market.
+It's a life study plan. It's going to take me my whole life since quantitative is evolving everyday.
 
 ## ***Data processing and curation***
 
