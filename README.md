@@ -12,14 +12,14 @@ Table of Contents
 -   [What do I have for you?](#What-do-I-have-for-you-?)
 -   [Why use it?](#why-use-it?)
 -   [Data processing and curation](#Data-processing-and-curation)
--   [Investment Strategies/Alpha/Feature Analysis]
--   [Portfolio Management/Diversified]
--   [Execution]
--   [Back test]
--   [Risk Management]
--   [Mathematics Finance]
--   [About Video Resources](https://github.com/jwasham/Quantitative-Finance#about-video-resources)
--   [Book List](https://github.com/jwasham/Quantitative-Finance#book-list)
+-   [Investment Strategies/Alpha/Feature Analysis](#Investment-Strategies/Alpha/Feature-Analysis)
+-   [Portfolio Management/Diversified](#Portfolio-Management/Diversified)
+-   [Execution](#Execution)
+-   [Back test](#Back-test)
+-   [Risk-Management](#Risk-Management)
+-   [Mathematics Finance](#Mathematics-Finance)
+-   [About Video Resources](#About Video Resources)
+-   [Book List](#Book-List)
 -   [Data Structures](https://github.com/jwasham/coding-interview-university#data-structures)
     -   [Arrays](https://github.com/jwasham/coding-interview-university#arrays)
     -   [Linked Lists](https://github.com/jwasham/coding-interview-university#linked-lists)
@@ -72,16 +72,24 @@ It's a life study plan. It's going to take me my whole life since quantitative i
     -   [VNquant](https://github.com/phamdinhkhanh/vnquant) - API for Vietnamese Stocks
 
 ## ***Investment Strategies/Alpha/Feature Analysis:***
+- Technical Strategies
+    -   [Qlib](https://github.com/microsoft/qlib)
+    -   [Finrl](https://github.com/AI4Finance-LLC/FinRL)
+    -   [Ta-lib](https://github.com/mrjbq7/ta-lib)
+- Fundamental Strategis(To be updated)
+    - Canlism, Buffest, Value, Growth, Piotroski, Altman, Beneish
 
 ## ***Portfolio Management/Diversified:***
+- [MVO, Black Litter Man, HRP](https://github.com/robertmartin8/PyPortfolioOpt)
+- [Riskfolio-Lib](https://github.com/dcajasn/Riskfolio-Lib)
 
 ## ***Back test:***
-
-## ***Risk Management:***
+- [Backtrader](https://github.com/mementum/backtrader)
+- [Backtest](https://github.com/pmorissette/bt)
 
 ## ***Mathematics:***
 
-## ***To be update: Execution/Software Development/HPC Infrastructure***
+## ***To be update: Risk_Management/Execution/Software Development/HPC Infrastructure***
 
 ## ***Industry Leader***
 
