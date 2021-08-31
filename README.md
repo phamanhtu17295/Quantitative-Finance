@@ -21,7 +21,7 @@ Table of Contents
 -   [About Video Resources](#About Video Resources)
 -   [Book List](#Book-List)
 -   [Industry Leader](#Industry-Leader)
--   [Top ranking School in Quantitative Finance](#Top-ranking-School-in-Quantitative-Finance:)
+-   [Top ranking School in Quantitative Finance](#Top-ranking-School-in-Quantitative-Finance)
 -   [Kaggle Competion and Note Book](#Kaggle-Competion-and-Note-Book)
 
 ## ***What do I have for you ?***
@@ -98,9 +98,12 @@ Data Source - OHLC/Volume
 -   [G2](https://github.com/antvis/G2]
 
 ## ***Book List:***
-Self_collection: https://drive.google.com/drive/u/5/folders/1xZV6nC3p725U8g78KxA5kH2dZaVe67S9
-## ***About Video Resources:***
+Self_collection: https://drive.google.com/drive/u/5/folders/1xZV6nC3p725U8g78KxA5kH2dZaVe67S9ư
 
+## ***About Video Resources:***
+    - [scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos)
+    - [Kaggle Blog](https://medium.com/kaggle-blog)
+    
 ## ***To be update: Programming/Risk_Management/Execution/Software Development/HPC Infrastructure***
 
 ## ***Industry Leader***
@@ -111,7 +114,7 @@ Self_collection: https://drive.google.com/drive/u/5/folders/1xZV6nC3p725U8g78KxA
 - [Marcos Lopez de Prado](https://www.linkedin.com/in/lopezdeprado/)
 - [Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
 
-## Top ranking School in Quantitative Finance:
+## ***Top ranking School in Quantitative Finance***
 
 -   [Top ranking School in Quantitative Finance](https://quantnet.com/mfe-programs-rankings/?fbclid=IwAR3eLr5koxCc3RUrhVo1nBS7ZrRVXKL9jA84w3uXsGO484uLvAaBiq6v68g)
 
@@ -156,4 +159,3 @@ Kaggle is a great place to start for student, research who first starting with Q
     -   [EDA, feature engineering and everything](https://www.kaggle.com/artgor/eda-feature-engineering-and-everything)
     -   [Winner Interview](https://medium.com/kaggle-blog/two-sigma-financial-modeling-code-competition-5th-place-winners-interview-team-best-fitting-279a493c76bd)
     -   [Twitter sentiment Extaction-Analysis,EDA and Model](https://www.kaggle.com/tanulsingh077/twitter-sentiment-extaction-analysis-eda-and-model)
-## References:
