@@ -92,17 +92,16 @@ Data Source - OHLC/Volume
 -   [Data Science: Probability - Part 2](https://www.edx.org/course/introduction-to-probability-part-ii-inference-proc)
 -   [Statistical Inference and Modeling for High-throughput Experiments](https://www.edx.org/course/statistical-inference-and-modeling-for-high-throug)
 -   [Statistics and R](https://www.edx.org/course/statistics-and-r)
--   [Probability - The Science of Uncertainty and Data](Probability - The Science of Uncertainty and Data)
 -   [Statistical Thinking for Data Science and Analytics](https://www.edx.org/course/statistical-thinking-for-data-science-and-analytic)
 -   [Free test](https://www.varsitytutors.com/statistics-practice-tests)
--   [G2](https://github.com/antvis/G2]
+-   [G2](https://github.com/antvis/G2)
 
 ## ***Book List:***
 Self_collection: https://drive.google.com/drive/u/5/folders/1xZV6nC3p725U8g78KxA5kH2dZaVe67S9ư
 
 ## ***About Video Resources***
-    - [scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos)
-    - [Kaggle Blog](https://medium.com/kaggle-blog)
+-   [scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos)
+-   [Kaggle Blog](https://medium.com/kaggle-blog)
     
 ## ***To be update: Programming/Risk_Management/Execution/Software Development/HPC Infrastructure***
 
