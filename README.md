@@ -20,13 +20,6 @@ Table of Contents
 -   [Mathematics Finance](#Mathematics-Finance)
 -   [About Video Resources](#About Video Resources)
 -   [Book List](#Book-List)
--   [Data Structures](https://github.com/jwasham/coding-interview-university#data-structures)
-    -   [Arrays](https://github.com/jwasham/coding-interview-university#arrays)
-    -   [Linked Lists](https://github.com/jwasham/coding-interview-university#linked-lists)
-    -   [Stack](https://github.com/jwasham/coding-interview-university#stack)
-    -   [Queue](https://github.com/jwasham/coding-interview-university#queue)
-    -   [Hash table](https://github.com/jwasham/coding-interview-university#hash-table)
-
 -   [Industry Leader](#Industry-Leader)
 -   [Top ranking School in Quantitative Finance](#Top-ranking-School-in-Quantitative-Finance:)
 -   [Kaggle Competion and Note Book](#Kaggle-Competion-and-Note-Book)
@@ -88,8 +81,27 @@ Data Source - OHLC/Volume
 - [Backtest](https://github.com/pmorissette/bt)
 
 ## ***Mathematics:***
+-   [MIT mathematics](https://ocw.mit.edu/courses/mathematics/)
+-   [Free test](https://www.varsitytutors.com/calculus_1-practice-tests#practice-tests-section)
+-   [The algorithm](https://github.com/TheAlgorithms/C)
+-   [C-plus-plus](https://github.com/TheAlgorithms/C-Plus-Plus)
+-   [Awesome-Math(Must Read)](https://github.com/rossant/awesome-math)
 
-## ***To be update: Risk_Management/Execution/Software Development/HPC Infrastructure***
+## ***Statistics:***
+-   [Data Science: Probability](https://www.edx.org/course/data-science-probability)
+-   [Data Science: Probability - Part 2](https://www.edx.org/course/introduction-to-probability-part-ii-inference-proc)
+-   [Statistical Inference and Modeling for High-throughput Experiments](https://www.edx.org/course/statistical-inference-and-modeling-for-high-throug)
+-   [Statistics and R](https://www.edx.org/course/statistics-and-r)
+-   [Probability - The Science of Uncertainty and Data](Probability - The Science of Uncertainty and Data)
+-   [Statistical Thinking for Data Science and Analytics](https://www.edx.org/course/statistical-thinking-for-data-science-and-analytic)
+-   [Free test](https://www.varsitytutors.com/statistics-practice-tests)
+-   [G2](https://github.com/antvis/G2]
+
+## ***Book List:***
+Self_collection: https://drive.google.com/drive/u/5/folders/1xZV6nC3p725U8g78KxA5kH2dZaVe67S9
+## ***About Video Resources:***
+
+## ***To be update: Programming/Risk_Management/Execution/Software Development/HPC Infrastructure***
 
 ## ***Industry Leader***
 
