@@ -58,7 +58,7 @@ It's a life study plan. It's going to take me my whole life since quantitative i
 
 ## ***Data processing and curation***
 
-    ***Data Source - OHLC/Volume***
+Data Source - OHLC/Volume
     
     -   [yfinance](https://github.com/ranaroussi/yfinance) - Yahoo! Finance market data downloader (+faster Pandas Datareader)
     -   [findatapy](https://github.com/cuemacro/findatapy) - Python library to download market data via Bloomberg, Quandl, Yahoo etc.
