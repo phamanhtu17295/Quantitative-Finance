@@ -18,7 +18,7 @@ Table of Contents
 -   [Back test](#Back-test)
 -   [Risk-Management](#Risk-Management)
 -   [Mathematics Finance](#Mathematics-Finance)
--   [About Video Resources](#About Video Resources)
+-   [About Video Resources](#About-Video-Resources)
 -   [Book List](#Book-List)
 -   [Industry Leader](#Industry-Leader)
 -   [Top ranking School in Quantitative Finance](#Top-ranking-School-in-Quantitative-Finance)
@@ -100,7 +100,7 @@ Data Source - OHLC/Volume
 ## ***Book List:***
 Self_collection: https://drive.google.com/drive/u/5/folders/1xZV6nC3p725U8g78KxA5kH2dZaVe67S9ư
 
-## ***About Video Resources:***
+## ***About Video Resources***
     - [scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos)
     - [Kaggle Blog](https://medium.com/kaggle-blog)
     
