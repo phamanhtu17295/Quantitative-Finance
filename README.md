@@ -112,6 +112,7 @@ Self_collection: https://drive.google.com/drive/u/5/folders/1xZV6nC3p725U8g78KxA
 - [Victor DeMiguel - Phd LonDon Business Schools](http://faculty.london.edu/avmiguel/)
 - [Marcos Lopez de Prado](https://www.linkedin.com/in/lopezdeprado/)
 - [Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
+- [Stefan Jenson](https://www.linkedin.com/in/applied-ai/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAJd5GkBp46JxYaEjOiDeItfnkNe9boljUs)
 
 ## ***Top ranking School in Quantitative Finance***
 
