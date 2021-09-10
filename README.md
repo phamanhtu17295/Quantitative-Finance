@@ -112,7 +112,8 @@ Self_collection: https://drive.google.com/drive/u/5/folders/1xZV6nC3p725U8g78KxA
 - [Victor DeMiguel - Phd LonDon Business Schools](http://faculty.london.edu/avmiguel/)
 - [Marcos Lopez de Prado](https://www.linkedin.com/in/lopezdeprado/)
 - [Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
-- [Stefan Jenson](https://www.linkedin.com/in/applied-ai/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAJd5GkBp46JxYaEjOiDeItfnkNe9boljUs)
+- [Stefan Jenson](https://www.linkedin.com/in/applied-ai/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAJd5GkBp46JxYaEjOiDeItfnkNe9boljUs)\
+- [Paul Wilmot](https://wilmott.com/)
 
 ## ***Top ranking School in Quantitative Finance***
 
@@ -131,6 +132,7 @@ Self_collection: https://drive.google.com/drive/u/5/folders/1xZV6nC3p725U8g78KxA
     -   [Master of Science In Financial Engineering](https://msfe.ieor.columbia.edu/)
 -   Nanyang Technological University
     -   [MSc in Financial Technology](https://wcms-prod-admin.ntu.edu.sg/spms/about-us/mathematics/grad/msc-in-financial-technology)
+-   [CQF](https://www.cqfinstitute.org/)
 
 ## ***Kaggle Competion and Note Book:***
 Kaggle is a great place to start for student, research who first starting with Quantitative and Machine Learning.
