@@ -97,7 +97,7 @@ Data Source - OHLC/Volume
 -   [G2](https://github.com/antvis/G2)
 
 ## ***Book List:***
-Self_collection: https://drive.google.com/drive/u/5/folders/1xZV6nC3p725U8g78KxA5kH2dZaVe67S9ư
+[Self_collection](https://drive.google.com/drive/folders/1xZV6nC3p725U8g78KxA5kH2dZaVe67S9?usp=sharing)
 
 ## ***About Video Resources***
 -   [scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos)
